@@ -3,7 +3,7 @@
 Clone repository
 
 ```
-git clone git@bitbucket.org:babydestination/cmc-frontend.git
+git clone git https://github.com/AsaiTadao/Vercel_project
 ```
 
 Install dependencies
